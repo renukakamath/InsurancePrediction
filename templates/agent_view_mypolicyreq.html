@@ -1,0 +1,37 @@
+
+{% include 'agentheader.html' %}
+<center><br><br>
+
+{% if data['showv'] %}
+<br><br><br>
+
+<center>
+    <span style="color: rgb(27, 129, 27);">{{ data['showv'][0]['status'] }}</span>
+</center>
+   {% else %}
+    <h5>My Policy Requests</h5>
+    <table class="table table-striped tbl-new" style="width: 1000px;">
+        <tr>
+            <th>Vehicle No</th>
+            <th>Model No</th>
+            <th>Engine No</th>
+            <th>Date</th>
+            <th>Status</th>
+    
+            
+        </tr>
+        {% for row in data['res'] %}
+        <tr>
+             <td>{{ row['vechiclenum'] }}</td>
+            <td>{{ row['modelnum'] }}</td>
+            <td>{{ row['enginenum'] }}</td>
+            <td>{{ row['date'] }}</td>
+            <td>{{row['status']}}</td>
+           
+            <!-- <td><a class="btn btn-dark" href="?action=showstat&prid={{ row['policyrequest_id'] }}">View Status</a></td> -->
+        </tr>
+        {% endfor %}
+    </table>
+{% endif %}
+
+    {% include 'footer.html' %}

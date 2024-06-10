@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_add_complaints.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_add_damagerequest.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_agenthome.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_ipsettings.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_login.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_my_damagerequest.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_my_policy_requests.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_registration.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_requestpolicy.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_view_policy_details.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/activity_viewdamagedetails.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/cust_images1.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/cust_images2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/InsurancePrediction/app/src/main/res/layout/custtext.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
